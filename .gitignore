@@ -42,14 +42,14 @@ Thumbs.db
 report.xml
 
 # FMOD
-/Assets/FMODStudioCache.asset
-/Assets/FMODStudioCache.asset.meta
+/Assets/FMOD/StudioCache.asset
+/Assets/FMOD/StudioCache.asset.meta
 fmod.log
 fmod_editor.log
 
 # 2.0
-/Assets/Plugins/Resources/FMODStudioCache.asset
-/Assets/Plugins/Resources/FMODStudioCache.asset.meta
+/Assets/Plugins/FMOD/Resources/FMODStudioCache.asset
+/Assets/Plugins/FMOD/Resources/FMODStudioCache.asset.meta
 
 # FMOD studio (In folder FMOD)
 /FMOD/**.user
